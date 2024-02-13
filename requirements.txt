@@ -1,0 +1,4 @@
+python-dotenv==1.0.1
+python-telegram==0.18.0
+setuptools==69.0.3
+telegram_text==0.2.0
